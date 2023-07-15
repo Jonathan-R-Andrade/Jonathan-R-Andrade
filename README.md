@@ -94,7 +94,7 @@
 
 <hr />
 
-<h3 align="center">Estáticas do GitHub</h3>
+<h3 align="center">Estatísticas do GitHub</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
